@@ -1,0 +1,24 @@
+/**
+ * @name Dark Bloody Theme 2023
+ * @author Patryk Bielanin | Kitsui#8258
+ * @description Cyberpunk 2077 UI styled theme for better discord
+ * @source https://github.com/PatrykBielanin/discord-cyberpunk2077-theme
+ * @website https://github.com/PatrykBielanin/discord-cyberpunk2077-theme
+ * @donate https://www.paypal.com/donate/?hosted_button_id=PGVKB863SXYUQ
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani');
+
+:root {
+    --background-primary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --background-secondary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --font-primary: 'Rajdhani'; /* Font */
+    --primary-text-color: lightgray; /* Font color */
+
+    --primary: 23, 13, 22;  /* Background color mainly used for popups */
+    --red: 255, 0, 60; /* Use RGB values */
+    --blue: 255, 255, 255; /* Use RGB values */
+    --yellow: 255, 255, 255; /* Use RGB values */
+    --green: 71, 213, 139; /* Use RGB values */
+    --dark-green: 56, 171, 111; /* Use RGB values */
+}
