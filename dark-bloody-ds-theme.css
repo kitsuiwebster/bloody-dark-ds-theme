@@ -12,4 +12,35 @@
     --background-secondary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%); 
     --font-primary: 'Rajdhani';
     --primary-text-color: lightgray; 
+
+    --primary: 23, 13, 22;
+    --dark-primary-color: rgba(var(--primary), 1);
+}
+
+/* Top center bar with channel info */
+.title-31SJ6t {
+    background: black !important;
+    box-sizing: content-box;
+ }
+
+/* Top bar icons margin */
+.toolbar-3_r2xA {
+    margin-right: 1rem;
+}
+
+/* Top center bar icons and channel name color */
+.base-ZDDK0g,
+ #app-mount .iconWrapper-2awDjA svg {
+    color: var(--primary);
+}
+
+/* Channel description */
+.children-3xh0VB .topic-11NuQZ {
+    color: var(--primary);
+}
+
+/* Right top search bar */
+.searchBar-jGtisZ {
+    background: var(--dark-primary-color);
+    border-radius: 4px;
 }
