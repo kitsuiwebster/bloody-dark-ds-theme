@@ -8,15 +8,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani');
 
 :root {
-    --background-primary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
-    --background-secondary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
-    --font-primary: 'Rajdhani'; /* Font */
-    --primary-text-color: lightgray; /* Font color */
+    --background-primary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%); 
+    --background-secondary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%); 
+    --font-primary: 'Rajdhani';
+    --primary-text-color: lightgray; 
 
-    --primary: 23, 13, 22;  /* Background color mainly used for popups */
-    --red: 255, 0, 60; /* Use RGB values */
-    --blue: 255, 255, 255; /* Use RGB values */
-    --yellow: 255, 255, 255; /* Use RGB values */
-    --green: 71, 213, 139; /* Use RGB values */
-    --dark-green: 56, 171, 111; /* Use RGB values */
+    --primary: 23, 13, 22;  
+    --red: 255, 0, 60; 
+    --blue: 255, 255, 255; 
+    --yellow: 255, 255, 255; 
+    --green: 71, 213, 139; 
+    --dark-green: 56, 171, 111; 
 }
