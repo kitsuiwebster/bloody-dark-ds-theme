@@ -37,7 +37,7 @@
  */
  
  .title-31SJ6t {
-   background: black !important;
+   background: black;
    box-sizing: content-box;
  }
  
@@ -134,7 +134,7 @@
  }
  
  .containerDefault-YUSmu3 .list-2x9Cl9 .icons-2mwuFp .liveSmall-1Urjcy {
-   background: #ff0000 !important;
+   background: #ff0000;
  }
  
  /* 
@@ -159,7 +159,7 @@
  }
  
  .wrapper-28eC3z .lowerBadge-3WTshO .numberBadge-37OJ3S {
-   background: var(--primary-text-color) !important;
+   background: var(--primary-text-color);
    color: black;
  }
  
@@ -176,7 +176,7 @@
  }
  
  .folder-241Joy .expandedFolderIconWrapper-3RwQpD svg {
-   color: #ffffff !important;
+   color: #ffffff;
  }
  
  #bd-pub-button:hover {
@@ -209,12 +209,12 @@
  }
  
  .contentWrapper-3vHNP2 .navList-YSb9UB button {
-   color: var(--primary-text-color) !important;
+   color: var(--primary-text-color);
  }
  
  .contentWrapper-3vHNP2 .navList-YSb9UB button[aria-selected="true"] {
-   background: transparent !important;
-   color: var(--primary-text-color) !important;
+   background: transparent;
+   color: var(--primary-text-color);
    text-shadow: 0px 0px 25px var(--primary-text-color);
  }
  
@@ -232,7 +232,7 @@
  .contentWrapper-3vHNP2 .container-1SX9VC .inner-1NoIT5,
  .contentWrapper-3vHNP2 .header-2TLOnc .inner-2pOSmK,
  .wrapper-3u51GQ .emojiPicker-6YCk8a .inner-1NoIT5 {
-   background: var(-primary-text-color) !important;
+   background: var(-primary-text-color);
  }
  
  .contentWrapper-3vHNP2 .categorySection-3j71bm {
@@ -245,7 +245,7 @@
  .wrapper-22rqw6 .list-obNEuP,
  .wrapper-22rqw6 .unicodeShortcut-3N8oDe,
  .emojiPicker-6YCk8a .inspector-DFKXwB {
-   background: #000000 !important;
+   background: #000000;
  }
  
  .message-2CShn3 .repliedMessage-3Z6XBG::before {
@@ -260,7 +260,7 @@
  }
  
  .container-A2jo65 .replyBar-1oi75v .replyLabel-WWnhHi {
-   color: #ffffff !important;
+   color: #ffffff;
  }
  
  .messagesWrapper-RpOMA3 .newMessagesBar-1hF-9G {
@@ -370,7 +370,7 @@
  
  .container-YkUktl,
  .container-1zzFcN {
-   background: black !important;
+   background: black;
  }
  
  /*
@@ -401,7 +401,7 @@
  }
  
  .container-1oAagU h3 {
-   color: #ffffff !important;
+   color: #ffffff;
  }
  
  .container-1oAagU .itemCard-3Etziu {
@@ -409,7 +409,7 @@
  }
  
  .container-1oAagU .itemCard-3Etziu .activitySection-20iylG div {
-   color: #ffffff !important;
+   color: #ffffff;
  }
  
  .body-16rSsp .section-3G9aLW {
@@ -457,7 +457,7 @@
  }
  
  .theme-light .container-1Lk8p7 div[data-text-variant="text-md/normal"] {
-   color: var(--primary-text-color) !important;
+   color: var(--primary-text-color);
  }
  
  .theme-light .container-1Lk8p7 button[class="container-x8Y1ix"] {
@@ -518,15 +518,15 @@
  }
  
  .bd-button-danger {
-   background: #ff0000 !important;
+   background: #ff0000;
  }
  
  .bd-button-danger:hover {
-   background: #ff0000 !important;
+   background: #ff0000;
  }
  
  .bd-view-button.selected {
-   background: #ff0000 !important;
+   background: #ff0000;
  }
  
  .bd-empty-image-container {
@@ -535,7 +535,7 @@
  }
  
  .bd-addon-header {
-   color: #ff0000 !important;
+   color: #ff0000;
  }
  
  /*
@@ -550,7 +550,7 @@
  
  .theme-dark .container-3wLKDe .form-25Aujy .titleContainer-2YK93J svg,
  .theme-dark .container-3wLKDe .form-25Aujy .inputMaxLength-3n06SD textarea {
-   color: var(--primary-text-color) !important;
+   color: var(--primary-text-color);
  }
  
  .theme-dark
@@ -558,23 +558,23 @@
    .form-25Aujy
    .inputMaxLength-3n06SD
    textarea::placeholder {
-   color: var(--primary-text-color) !important;
+   color: var(--primary-text-color);
  }
  
  .theme-dark .container-3wLKDe .matchingPostsRow-2IiEQ1 h3 {
-   color: var(--primary-text-color) !important;
+   color: var(--primary-text-color);
  }
  
  .startPostHelp-RNMDiS .text-xs-normal-3SiVjE {
-   color: var(--primary-text-color) !important;
+   color: var(--primary-text-color);
  }
  
  .tag-19iIl1,
  .pill-3pRQlO {
-   --background-tertiary: #730000 !important;
-   --background-secondary-alt: #ff0000 !important;
+   --background-tertiary: #730000;
+   --background-secondary-alt: #ff0000;
  }
  
  .pill-3pRQlO.selected-24z1Ou {
-   border-color: #000000 !important;
+   border-color: #000000;
  } 
