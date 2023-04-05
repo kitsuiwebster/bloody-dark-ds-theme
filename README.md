@@ -10,7 +10,7 @@ A Dark-Mode Discord theme for BetterDiscord users
 
 ### Linux
 
-> Install dependencies with curl
+> Install betterdiscordctl with curl
 
 ```txt
 $ curl -O https://raw.githubusercontent.com/bb010g/betterdiscordctl/master/betterdiscordctl
@@ -23,7 +23,7 @@ $ sudo mv betterdiscordctl /usr/local/bin
 > $ sudo betterdiscordctl self-upgrade
 > ```
 
-## Install BetterDiscord
+> Install BetterDiscord
 
 Replace `[COMMAND]` with `install` to install BD for the first time,
 `reinstall` to reinstall BD after a Discord update,
@@ -59,14 +59,6 @@ $ betterdiscordctl --d-install snap [COMMAND]
 $ betterdiscordctl --d-install flatpak [COMMAND]
 ```
 
-## Credits
-
-#### [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) by Jiiks
-
-#### [Bandaged BD](https://github.com/rauenzi/BetterDiscordApp) by Zerebos (rauenzi)
-
-#### [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) by bb010g
-
 ## How to add 'Bloody Dark Mode Discord Theme' to your Discord client
 
 Once BetterDiscord is installed:
@@ -84,5 +76,17 @@ Once BetterDiscord is installed:
 See LICENSE.md for more details
 
 ## Previews
+
+![preview](./previews/preview1.png)
+
+![preview](./previews/preview2.png)
+
+## Credits
+
+#### [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) by Jiiks
+
+#### [Bandaged BD](https://github.com/rauenzi/BetterDiscordApp) by Zerebos (rauenzi)
+
+#### [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) by bb010g
 
 
