@@ -6,24 +6,24 @@ A Dark-Mode Discord theme for BetterDiscord users
 
 ### Windows
 
-> Download and install BetterDiscord: https://betterdiscord.app/
+Download and install BetterDiscord: https://betterdiscord.app/
 
 ### Linux
 
-> Install betterdiscordctl with curl
+Install betterdiscordctl with curl
 
 ```txt
-$ curl -O https://raw.githubusercontent.com/bb010g/betterdiscordctl/master/betterdiscordctl
-$ chmod +x betterdiscordctl
-$ sudo mv betterdiscordctl /usr/local/bin
+curl -O https://raw.githubusercontent.com/bb010g/betterdiscordctl/master/betterdiscordctl
+chmod +x betterdiscordctl
+sudo mv betterdiscordctl /usr/local/bin
 ```
 
-> You can then keep `betterdiscordctl` up to date with this command:
-> ```
-> $ sudo betterdiscordctl self-upgrade
-> ```
+You can then keep `betterdiscordctl` up to date with this command:
+```
+sudo betterdiscordctl self-upgrade
+```
 
-> Install BetterDiscord
+Install BetterDiscord
 
 Replace `[COMMAND]` with `install` to install BD for the first time,
 `reinstall` to reinstall BD after a Discord update,
@@ -32,31 +32,31 @@ or `uninstall` to uninstall an existing installation.
 - For Stable
 
 ```
-$ betterdiscordctl [COMMAND]
+betterdiscordctl [COMMAND]
 ```
 
 - For PTB
 
 ```
-$ betterdiscordctl --flavor PTB [COMMAND]
+betterdiscordctl --flavor PTB [COMMAND]
 ```
 
 - For Canary
 
 ```
-$ betterdiscordctl --flavor Canary [COMMAND]
+betterdiscordctl --flavor Canary [COMMAND]
 ```
 
 - For Snap
 
 ```
-$ betterdiscordctl --d-install snap [COMMAND]
+betterdiscordctl --d-install snap [COMMAND]
 ```
 
 - For Flatpak
 
 ```
-$ betterdiscordctl --d-install flatpak [COMMAND]
+betterdiscordctl --d-install flatpak [COMMAND]
 ```
 
 ## How to add 'Bloody Dark Mode Discord Theme' to your Discord client
